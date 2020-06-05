@@ -1,0 +1,439 @@
+2020-10-20T23:40:32-0400 [INFO    ] dandi Traversing remote dandisets (000004) recursively
+2020-10-20T23:40:32-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-20T23:40:40-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P10HMH/sub-P10HMH_ses-20060901_ecephys+image.nwb
+2020-10-20T23:40:40-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:40-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b5/d2/b5d2056f95514929bae43afa3447dc48 -> /mnt/backup/dandi/dandisets/000004/sub-P10HMH/sub-P10HMH_ses-20060901_ecephys+image.nwb
+2020-10-20T23:40:40-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:41-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b5/d2/b5d2056f95514929bae43afa3447dc48?versionId=6eDE_Gtal6UZZB9bNy_zStillO4qOjx6 to asset
+2020-10-20T23:40:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P11HMH/sub-P11HMH_ses-20061101_ecephys+image.nwb
+2020-10-20T23:40:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/6b/0c/6b0c0fcc53584af9aa7593ab2f8a4c27 -> /mnt/backup/dandi/dandisets/000004/sub-P11HMH/sub-P11HMH_ses-20061101_ecephys+image.nwb
+2020-10-20T23:40:42-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:43-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/6b/0c/6b0c0fcc53584af9aa7593ab2f8a4c27?versionId=lfu5LD4y27IHifQCEh2GLo2SYk1ha9S9 to asset
+2020-10-20T23:40:43-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P14HMH/sub-P14HMH_ses-20070601_obj-1t8wrd5_ecephys+image.nwb
+2020-10-20T23:40:44-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:44-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/97/e4/97e4d8fd8a6b48d4a5a599a11d0f46cb -> /mnt/backup/dandi/dandisets/000004/sub-P14HMH/sub-P14HMH_ses-20070601_obj-1t8wrd5_ecephys+image.nwb
+2020-10-20T23:40:44-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:44-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/97/e4/97e4d8fd8a6b48d4a5a599a11d0f46cb?versionId=izKOyqpQ1v9EvZBEtMqqH3Y_n4cJj_lp to asset
+2020-10-20T23:40:45-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P14HMH/sub-P14HMH_ses-20070601_obj-7studd_ecephys+image.nwb
+2020-10-20T23:40:45-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:45-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/96/af/96af9e7bf8a44753865b3c0fae0fba32 -> /mnt/backup/dandi/dandisets/000004/sub-P14HMH/sub-P14HMH_ses-20070601_obj-7studd_ecephys+image.nwb
+2020-10-20T23:40:45-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:45-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/96/af/96af9e7bf8a44753865b3c0fae0fba32?versionId=FekfHEc0dPSfEN4_pEUoCXV8GB0pEdmv to asset
+2020-10-20T23:40:46-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P15HMH/sub-P15HMH_ses-20070901_obj-a5xz9n_ecephys+image.nwb
+2020-10-20T23:40:46-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:46-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/98/b7/98b707d8b8e441ac9089354b1ad79bae -> /mnt/backup/dandi/dandisets/000004/sub-P15HMH/sub-P15HMH_ses-20070901_obj-a5xz9n_ecephys+image.nwb
+2020-10-20T23:40:46-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:47-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/98/b7/98b707d8b8e441ac9089354b1ad79bae?versionId=PJvNT4Pf316cgnu54vEAg_paMyzEU8qF to asset
+2020-10-20T23:40:47-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P15HMH/sub-P15HMH_ses-20070901_obj-bdd49u_ecephys+image.nwb
+2020-10-20T23:40:47-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:47-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/41/cd/41cd1f22c663462e91f24bfc315dda45 -> /mnt/backup/dandi/dandisets/000004/sub-P15HMH/sub-P15HMH_ses-20070901_obj-bdd49u_ecephys+image.nwb
+2020-10-20T23:40:47-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:48-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/41/cd/41cd1f22c663462e91f24bfc315dda45?versionId=RU9qtC6kRWQNLPK5tSWq2VhQGqLNnNaI to asset
+2020-10-20T23:40:48-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P16HMH/sub-P16HMH_ses-20071001_obj-12ambkj_ecephys+image.nwb
+2020-10-20T23:40:49-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:49-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8e/a3/8ea3d6f98ad44835938558e690196525 -> /mnt/backup/dandi/dandisets/000004/sub-P16HMH/sub-P16HMH_ses-20071001_obj-12ambkj_ecephys+image.nwb
+2020-10-20T23:40:49-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:49-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8e/a3/8ea3d6f98ad44835938558e690196525?versionId=85D5t4KTLswoOjc9OuThWzeeXwce1zxU to asset
+2020-10-20T23:40:49-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P16HMH/sub-P16HMH_ses-20071001_obj-1jfnx96_ecephys+image.nwb
+2020-10-20T23:40:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8a/7e/8a7e6207856a4d94ba528d670b9c8efd -> /mnt/backup/dandi/dandisets/000004/sub-P16HMH/sub-P16HMH_ses-20071001_obj-1jfnx96_ecephys+image.nwb
+2020-10-20T23:40:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8a/7e/8a7e6207856a4d94ba528d670b9c8efd?versionId=8MnfpdNSTRG0GLRwoj3KzF27gwWWJtN7 to asset
+2020-10-20T23:40:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P17HMH/sub-P17HMH_ses-20080501_ecephys+image.nwb
+2020-10-20T23:40:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/66/cb/66cbac488347491f817104e63014941e -> /mnt/backup/dandi/dandisets/000004/sub-P17HMH/sub-P17HMH_ses-20080501_ecephys+image.nwb
+2020-10-20T23:40:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/66/cb/66cbac488347491f817104e63014941e?versionId=MHLV5UFXXHPT4tcMc0aiFFI7LPuj.TWS to asset
+2020-10-20T23:40:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P18HMH/sub-P18HMH_ses-20080601_ecephys+image.nwb
+2020-10-20T23:40:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/35/7e/357e77d4104844c9a595d8b40c37af8a -> /mnt/backup/dandi/dandisets/000004/sub-P18HMH/sub-P18HMH_ses-20080601_ecephys+image.nwb
+2020-10-20T23:40:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:54-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/35/7e/357e77d4104844c9a595d8b40c37af8a?versionId=t8otnJygG71IscWZ5QG0N82_FB676LIi to asset
+2020-10-20T23:40:54-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P19HMH/sub-P19HMH_ses-20080601_obj-1tmj21e_ecephys+image.nwb
+2020-10-20T23:40:54-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:54-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e4/5e/e45e50f4fe7a43728721f0a9d6d4ebbf -> /mnt/backup/dandi/dandisets/000004/sub-P19HMH/sub-P19HMH_ses-20080601_obj-1tmj21e_ecephys+image.nwb
+2020-10-20T23:40:54-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e4/5e/e45e50f4fe7a43728721f0a9d6d4ebbf?versionId=PCREfg_IJPA6pMoZtocyuJrONY.E6xcr to asset
+2020-10-20T23:40:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P19HMH/sub-P19HMH_ses-20080601_obj-uw5up9_ecephys+image.nwb
+2020-10-20T23:40:56-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3c/0d/3c0dbcbfa4ad40898363b70ec9ff1cad -> /mnt/backup/dandi/dandisets/000004/sub-P19HMH/sub-P19HMH_ses-20080601_obj-uw5up9_ecephys+image.nwb
+2020-10-20T23:40:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3c/0d/3c0dbcbfa4ad40898363b70ec9ff1cad?versionId=7Kh6zhE__v5XDCwl69iVSpEt7FYW5XSN to asset
+2020-10-20T23:40:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P21HMH/sub-P21HMH_ses-20090101_obj-1femyyi_ecephys+image.nwb
+2020-10-20T23:40:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c8/9a/c89aa50a211341abb57c4d727db76419 -> /mnt/backup/dandi/dandisets/000004/sub-P21HMH/sub-P21HMH_ses-20090101_obj-1femyyi_ecephys+image.nwb
+2020-10-20T23:40:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c8/9a/c89aa50a211341abb57c4d727db76419?versionId=Wy.J03DCcUmbHLJbeUJukihEto5_Q2Ba to asset
+2020-10-20T23:40:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P21HMH/sub-P21HMH_ses-20090101_obj-3ljvpn_ecephys+image.nwb
+2020-10-20T23:40:58-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:40:58-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/43/be/43be9146319d4ae985e8f87ebe52bd89 -> /mnt/backup/dandi/dandisets/000004/sub-P21HMH/sub-P21HMH_ses-20090101_obj-3ljvpn_ecephys+image.nwb
+2020-10-20T23:40:58-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:40:59-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/43/be/43be9146319d4ae985e8f87ebe52bd89?versionId=va3Onkt1c23DaRAy3LAxjujla8xj6CBQ to asset
+2020-10-20T23:41:00-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P21HMH/sub-P21HMH_ses-20090101_obj-slgaak_ecephys+image.nwb
+2020-10-20T23:41:00-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:00-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/38/24/382466af93414a66b83736cf7e2516cf -> /mnt/backup/dandi/dandisets/000004/sub-P21HMH/sub-P21HMH_ses-20090101_obj-slgaak_ecephys+image.nwb
+2020-10-20T23:41:00-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:01-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/38/24/382466af93414a66b83736cf7e2516cf?versionId=Y6ssS8AZ7TDvWlRnXzG6__ma4o5pq2GF to asset
+2020-10-20T23:41:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P23HMH/sub-P23HMH_ses-20090201_obj-1k3199e_ecephys+image.nwb
+2020-10-20T23:41:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ed/04/ed048259c1ce496c9903863d5cdfee9f -> /mnt/backup/dandi/dandisets/000004/sub-P23HMH/sub-P23HMH_ses-20090201_obj-1k3199e_ecephys+image.nwb
+2020-10-20T23:41:02-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:02-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ed/04/ed048259c1ce496c9903863d5cdfee9f?versionId=7uk1Knt0XOl1PhUtnEwPEMTdD1f1x06e to asset
+2020-10-20T23:41:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P23HMH/sub-P23HMH_ses-20090201_obj-1tm3w39_ecephys+image.nwb
+2020-10-20T23:41:03-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:03-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7e/d5/7ed5ec7e50354889bc99f69499200ae4 -> /mnt/backup/dandi/dandisets/000004/sub-P23HMH/sub-P23HMH_ses-20090201_obj-1tm3w39_ecephys+image.nwb
+2020-10-20T23:41:03-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7e/d5/7ed5ec7e50354889bc99f69499200ae4?versionId=gGIy9AB8rzVnMaetDLmieLe7NdOynFcV to asset
+2020-10-20T23:41:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P23HMH/sub-P23HMH_ses-20090201_obj-q3na3m_ecephys+image.nwb
+2020-10-20T23:41:04-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:04-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/07/d3/07d3897bedb1432c810075ea3d862287 -> /mnt/backup/dandi/dandisets/000004/sub-P23HMH/sub-P23HMH_ses-20090201_obj-q3na3m_ecephys+image.nwb
+2020-10-20T23:41:04-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:05-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/07/d3/07d3897bedb1432c810075ea3d862287?versionId=WvAVlUp_UDKIyfVenHtwvJhT3h0OjKWs to asset
+2020-10-20T23:41:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P24CS/sub-P24CS_ses-20120901_obj-enj8r0_ecephys+image.nwb
+2020-10-20T23:41:06-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:06-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/fe/a4/fea4a3cf90ef48eba2166db17ff060e8 -> /mnt/backup/dandi/dandisets/000004/sub-P24CS/sub-P24CS_ses-20120901_obj-enj8r0_ecephys+image.nwb
+2020-10-20T23:41:06-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:07-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/fe/a4/fea4a3cf90ef48eba2166db17ff060e8?versionId=7iaMsWOyxj4d8P2v1b.tnR4JvHQl5CB6 to asset
+2020-10-20T23:41:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P24CS/sub-P24CS_ses-20120901_obj-j6ja42_ecephys+image.nwb
+2020-10-20T23:41:07-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:07-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/97/ae/97ae14639ddc4ea2b08821e1892b53e1 -> /mnt/backup/dandi/dandisets/000004/sub-P24CS/sub-P24CS_ses-20120901_obj-j6ja42_ecephys+image.nwb
+2020-10-20T23:41:07-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:08-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/97/ae/97ae14639ddc4ea2b08821e1892b53e1?versionId=JKJM_DBJvhF.4QuT6GWm5m2uCSHkxAZs to asset
+2020-10-20T23:41:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P25CS/sub-P25CS_ses-20120901_obj-1nyxvwf_ecephys+image.nwb
+2020-10-20T23:41:09-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:09-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/82/47/824736126df24668afe43590a0b26d38 -> /mnt/backup/dandi/dandisets/000004/sub-P25CS/sub-P25CS_ses-20120901_obj-1nyxvwf_ecephys+image.nwb
+2020-10-20T23:41:09-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/82/47/824736126df24668afe43590a0b26d38?versionId=lc50sX8bnjCYYdljf6Hu5Dlmbq5trLYy to asset
+2020-10-20T23:41:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P25CS/sub-P25CS_ses-20120901_obj-uhyr63_ecephys+image.nwb
+2020-10-20T23:41:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b9/8e/b98e54cb9e694cc5b688ccd52c759364 -> /mnt/backup/dandi/dandisets/000004/sub-P25CS/sub-P25CS_ses-20120901_obj-uhyr63_ecephys+image.nwb
+2020-10-20T23:41:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:10-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b9/8e/b98e54cb9e694cc5b688ccd52c759364?versionId=ck1MtCGGZBg48voPeoYQA7Atss9jKxOC to asset
+2020-10-20T23:41:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P26CS/sub-P26CS_ses-20121201_obj-a9jb4x_ecephys+image.nwb
+2020-10-20T23:41:11-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:11-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0a/61/0a61a0805924443a897c7258ac629c77 -> /mnt/backup/dandi/dandisets/000004/sub-P26CS/sub-P26CS_ses-20121201_obj-a9jb4x_ecephys+image.nwb
+2020-10-20T23:41:11-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:12-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0a/61/0a61a0805924443a897c7258ac629c77?versionId=k5DPbk7JI4QeslQLX1SiAYbtQPo44HXF to asset
+2020-10-20T23:41:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P26CS/sub-P26CS_ses-20121201_obj-bms1d7_ecephys+image.nwb
+2020-10-20T23:41:12-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:12-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4b/f9/4bf98262db4546369919f38086b1cc9a -> /mnt/backup/dandi/dandisets/000004/sub-P26CS/sub-P26CS_ses-20121201_obj-bms1d7_ecephys+image.nwb
+2020-10-20T23:41:12-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:13-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4b/f9/4bf98262db4546369919f38086b1cc9a?versionId=w0f2NGZoODDoG_i0BKsh6KDq9PrzFEjI to asset
+2020-10-20T23:41:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P27CS/sub-P27CS_ses-20130101_ecephys+image.nwb
+2020-10-20T23:41:14-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:14-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9a/49/9a4923c6a431444bbe14e0f09edca839 -> /mnt/backup/dandi/dandisets/000004/sub-P27CS/sub-P27CS_ses-20130101_ecephys+image.nwb
+2020-10-20T23:41:14-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:15-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9a/49/9a4923c6a431444bbe14e0f09edca839?versionId=ZtGv2oYiiUplHpa5w6QJ5TD3GwX.yoVz to asset
+2020-10-20T23:41:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P27HMH/sub-P27HMH_ses-20100201_ecephys+image.nwb
+2020-10-20T23:41:15-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:15-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/10/18/1018639daacd4506936ce31c4b2cf300 -> /mnt/backup/dandi/dandisets/000004/sub-P27HMH/sub-P27HMH_ses-20100201_ecephys+image.nwb
+2020-10-20T23:41:15-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:16-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/10/18/1018639daacd4506936ce31c4b2cf300?versionId=61uLORby.xPp3zLiy4iDSIMVcMqyFbcM to asset
+2020-10-20T23:41:16-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P28HMH/sub-P28HMH_ses-20100313_ecephys+image.nwb
+2020-10-20T23:41:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0d/fb/0dfbc2af792d427cbb5498e95a70cc43 -> /mnt/backup/dandi/dandisets/000004/sub-P28HMH/sub-P28HMH_ses-20100313_ecephys+image.nwb
+2020-10-20T23:41:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:18-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0d/fb/0dfbc2af792d427cbb5498e95a70cc43?versionId=Xv3FiBsy4gMpSmFruKxb4iRDzULeHlk8 to asset
+2020-10-20T23:41:18-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P29CS/sub-P29CS_ses-20131001_obj-1ka9ngw_ecephys+image.nwb
+2020-10-20T23:41:18-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:18-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9d/1c/9d1c091783534ebfbd3513947898c099 -> /mnt/backup/dandi/dandisets/000004/sub-P29CS/sub-P29CS_ses-20131001_obj-1ka9ngw_ecephys+image.nwb
+2020-10-20T23:41:18-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:19-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9d/1c/9d1c091783534ebfbd3513947898c099?versionId=WLC9537xkwLhiayRBZTrkG45i_uX3mqd to asset
+2020-10-20T23:41:19-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P29CS/sub-P29CS_ses-20131001_obj-r4hf2_ecephys+image.nwb
+2020-10-20T23:41:20-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:20-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/16/23/162374e7b09c4e048b53add6c9634331 -> /mnt/backup/dandi/dandisets/000004/sub-P29CS/sub-P29CS_ses-20131001_obj-r4hf2_ecephys+image.nwb
+2020-10-20T23:41:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:20-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/16/23/162374e7b09c4e048b53add6c9634331?versionId=mviMwYHUpbDqSniX0IabMu70Z_IXO08Z to asset
+2020-10-20T23:41:21-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P29HMH/sub-P29HMH_ses-20101201_ecephys+image.nwb
+2020-10-20T23:41:21-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:21-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5f/62/5f622302e0c4419a93f059e69f993553 -> /mnt/backup/dandi/dandisets/000004/sub-P29HMH/sub-P29HMH_ses-20101201_ecephys+image.nwb
+2020-10-20T23:41:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5f/62/5f622302e0c4419a93f059e69f993553?versionId=4RlIQ29oefAkrNigPmZUKJ2I3GmQXzOA to asset
+2020-10-20T23:41:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P31CS/sub-P31CS_ses-20140201_ecephys+image.nwb
+2020-10-20T23:41:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1d/35/1d35222920a14f0fa5885572d9d12ce7 -> /mnt/backup/dandi/dandisets/000004/sub-P31CS/sub-P31CS_ses-20140201_ecephys+image.nwb
+2020-10-20T23:41:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:24-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1d/35/1d35222920a14f0fa5885572d9d12ce7?versionId=MIwhuizQDtlSUY3wFLibsIXfGLqtA3Mv to asset
+2020-10-20T23:41:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P31HMH/sub-P31HMH_ses-20110401_ecephys+image.nwb
+2020-10-20T23:41:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/46/f5/46f5dd10ad7a42579b6cdb47208fc2f0 -> /mnt/backup/dandi/dandisets/000004/sub-P31HMH/sub-P31HMH_ses-20110401_ecephys+image.nwb
+2020-10-20T23:41:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:26-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/46/f5/46f5dd10ad7a42579b6cdb47208fc2f0?versionId=zvK2hWdHMD6_GRb9lUCmms5I.SaWcxFi to asset
+2020-10-20T23:41:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P32CS/sub-P32CS_ses-20140201_ecephys+image.nwb
+2020-10-20T23:41:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/19/6f/196ff866b4f841ab90effefbfbb8bd02 -> /mnt/backup/dandi/dandisets/000004/sub-P32CS/sub-P32CS_ses-20140201_ecephys+image.nwb
+2020-10-20T23:41:26-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:27-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/19/6f/196ff866b4f841ab90effefbfbb8bd02?versionId=LKj3.P3D77gb6Wklri5y2se8Is9sYs5I to asset
+2020-10-20T23:41:27-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P33CS/sub-P33CS_ses-20140301_obj-1ps6q26_ecephys+image.nwb
+2020-10-20T23:41:28-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:28-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9d/cf/9dcfa0b4a77e499dbf15b2b9774d60a8 -> /mnt/backup/dandi/dandisets/000004/sub-P33CS/sub-P33CS_ses-20140301_obj-1ps6q26_ecephys+image.nwb
+2020-10-20T23:41:28-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:28-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9d/cf/9dcfa0b4a77e499dbf15b2b9774d60a8?versionId=CBE_WF6jBV7DqL6G4aGn7CrbXnztSVFC to asset
+2020-10-20T23:41:29-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P33CS/sub-P33CS_ses-20140301_obj-1xtqryy_ecephys+image.nwb
+2020-10-20T23:41:29-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:29-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a9/e4/a9e4623eab144445bb9c8b03057c2a9a -> /mnt/backup/dandi/dandisets/000004/sub-P33CS/sub-P33CS_ses-20140301_obj-1xtqryy_ecephys+image.nwb
+2020-10-20T23:41:29-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:30-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a9/e4/a9e4623eab144445bb9c8b03057c2a9a?versionId=KLvDEeRWibBAm4feI6Q9TO8ejysHt.a2 to asset
+2020-10-20T23:41:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P33CS/sub-P33CS_ses-20140301_obj-olcyje_ecephys+image.nwb
+2020-10-20T23:41:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/eb/0b/eb0b76bc07034034a6def1b86ba61f5d -> /mnt/backup/dandi/dandisets/000004/sub-P33CS/sub-P33CS_ses-20140301_obj-olcyje_ecephys+image.nwb
+2020-10-20T23:41:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/eb/0b/eb0b76bc07034034a6def1b86ba61f5d?versionId=L6dz2DVeL0g.QtXh_.l73paH.os8_3ZV to asset
+2020-10-20T23:41:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P33HMH/sub-P33HMH_ses-20110701_ecephys+image.nwb
+2020-10-20T23:41:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/17/ae/17aee79334f84ec9a5edccb471994b4c -> /mnt/backup/dandi/dandisets/000004/sub-P33HMH/sub-P33HMH_ses-20110701_ecephys+image.nwb
+2020-10-20T23:41:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:32-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/17/ae/17aee79334f84ec9a5edccb471994b4c?versionId=2JKHUP0svK9B9LlnUjQkZYwx1xqXVORl to asset
+2020-10-20T23:41:32-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P34CS/sub-P34CS_ses-20141201_ecephys+image.nwb
+2020-10-20T23:41:33-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4f/69/4f696e6afe0844fbb842150d2a41339e -> /mnt/backup/dandi/dandisets/000004/sub-P34CS/sub-P34CS_ses-20141201_ecephys+image.nwb
+2020-10-20T23:41:33-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4f/69/4f696e6afe0844fbb842150d2a41339e?versionId=kh7eTkuA0Fj1M97ZtgrT2DOfRW8IxiDA to asset
+2020-10-20T23:41:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P37CS/sub-P37CS_ses-20150301_ecephys+image.nwb
+2020-10-20T23:41:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/06/ac/06acff6e921c4856a54298fad32f0683 -> /mnt/backup/dandi/dandisets/000004/sub-P37CS/sub-P37CS_ses-20150301_ecephys+image.nwb
+2020-10-20T23:41:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/06/ac/06acff6e921c4856a54298fad32f0683?versionId=C7X5Ncte.I3WuAEwRNikjVj4QeJsC_vH to asset
+2020-10-20T23:41:35-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P38CS/sub-P38CS_ses-20150701_ecephys+image.nwb
+2020-10-20T23:41:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c1/5e/c15e9b3896984eb4816bb60715005b97 -> /mnt/backup/dandi/dandisets/000004/sub-P38CS/sub-P38CS_ses-20150701_ecephys+image.nwb
+2020-10-20T23:41:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c1/5e/c15e9b3896984eb4816bb60715005b97?versionId=SSuN3KoYEfwqssVyCxtpKZAAiAtdOHNY to asset
+2020-10-20T23:41:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P39CS/sub-P39CS_ses-20150801_obj-14sjqvm_ecephys+image.nwb
+2020-10-20T23:41:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f5/c9/f5c9563a316d4e02aef09d67faf8a9a6 -> /mnt/backup/dandi/dandisets/000004/sub-P39CS/sub-P39CS_ses-20150801_obj-14sjqvm_ecephys+image.nwb
+2020-10-20T23:41:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:37-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f5/c9/f5c9563a316d4e02aef09d67faf8a9a6?versionId=qptHga56dQ5FrdFeNeUNs3V_ljmjPCXg to asset
+2020-10-20T23:41:38-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P39CS/sub-P39CS_ses-20150801_obj-14vknkz_ecephys+image.nwb
+2020-10-20T23:41:38-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:38-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8c/0b/8c0b84120dd04e41b2a0b9249a0eee81 -> /mnt/backup/dandi/dandisets/000004/sub-P39CS/sub-P39CS_ses-20150801_obj-14vknkz_ecephys+image.nwb
+2020-10-20T23:41:39-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:39-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8c/0b/8c0b84120dd04e41b2a0b9249a0eee81?versionId=swtM41U2z7TvZTSobWvc9UZDjwx5Op.p to asset
+2020-10-20T23:41:40-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P40CS/sub-P40CS_ses-20160101_ecephys+image.nwb
+2020-10-20T23:41:40-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:40-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/99/26/9926ba303cf94dbb85ce775b28c3aef9 -> /mnt/backup/dandi/dandisets/000004/sub-P40CS/sub-P40CS_ses-20160101_ecephys+image.nwb
+2020-10-20T23:41:40-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:41-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/99/26/9926ba303cf94dbb85ce775b28c3aef9?versionId=aGDBjc9h1Yu2zvC6CR7TIPU1zHEp3K.r to asset
+2020-10-20T23:41:41-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P42CS/sub-P42CS_ses-20160801_obj-4o8frf_ecephys+image.nwb
+2020-10-20T23:41:41-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:41-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e6/7b/e67b2e484f1b4af3bb4bd04b6241a6ca -> /mnt/backup/dandi/dandisets/000004/sub-P42CS/sub-P42CS_ses-20160801_obj-4o8frf_ecephys+image.nwb
+2020-10-20T23:41:41-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:42-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e6/7b/e67b2e484f1b4af3bb4bd04b6241a6ca?versionId=ICMqCwSthOK_fb5aDjc5GCcetldbHKHk to asset
+2020-10-20T23:41:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P42CS/sub-P42CS_ses-20160801_obj-xl1j7v_ecephys+image.nwb
+2020-10-20T23:41:43-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:43-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4b/a7/4ba79b80859b488eabaaab4295370619 -> /mnt/backup/dandi/dandisets/000004/sub-P42CS/sub-P42CS_ses-20160801_obj-xl1j7v_ecephys+image.nwb
+2020-10-20T23:41:43-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:43-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4b/a7/4ba79b80859b488eabaaab4295370619?versionId=P7V01Ro8RaJ1LyN5VDVOJ7a4hnt_Mpkd to asset
+2020-10-20T23:41:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P42HMH/sub-P42HMH_ses-20130301_obj-1ysquep_ecephys+image.nwb
+2020-10-20T23:41:44-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:44-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/89/a3/89a3042087f541e5aea3bfb4bd884041 -> /mnt/backup/dandi/dandisets/000004/sub-P42HMH/sub-P42HMH_ses-20130301_obj-1ysquep_ecephys+image.nwb
+2020-10-20T23:41:44-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:45-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/89/a3/89a3042087f541e5aea3bfb4bd884041?versionId=5ne68WR.BZueKZ468Tcx3X8wO7eb.WBS to asset
+2020-10-20T23:41:45-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P42HMH/sub-P42HMH_ses-20130301_obj-4rl7w2_ecephys+image.nwb
+2020-10-20T23:41:45-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:45-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/dd/da/ddda91b32bbf4d67a0250311ab392f0e -> /mnt/backup/dandi/dandisets/000004/sub-P42HMH/sub-P42HMH_ses-20130301_obj-4rl7w2_ecephys+image.nwb
+2020-10-20T23:41:45-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:46-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/dd/da/ddda91b32bbf4d67a0250311ab392f0e?versionId=gnHKGv8t4LHhQixnRbgMXf.rD.0hmCU3 to asset
+2020-10-20T23:41:46-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P43CS/sub-P43CS_ses-20161101_ecephys+image.nwb
+2020-10-20T23:41:46-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:46-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ad/16/ad1686cfade64f9c9226ed8b41a07b45 -> /mnt/backup/dandi/dandisets/000004/sub-P43CS/sub-P43CS_ses-20161101_ecephys+image.nwb
+2020-10-20T23:41:46-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:47-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ad/16/ad1686cfade64f9c9226ed8b41a07b45?versionId=QkUuIXwNOhovOZDBsV8s5yg0F5at_enp to asset
+2020-10-20T23:41:47-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P43HMH/sub-P43HMH_ses-20130401_ecephys+image.nwb
+2020-10-20T23:41:48-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:48-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/64/ae/64ae89ac937141ad9de1ecbd6d7a9827 -> /mnt/backup/dandi/dandisets/000004/sub-P43HMH/sub-P43HMH_ses-20130401_ecephys+image.nwb
+2020-10-20T23:41:48-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:48-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/64/ae/64ae89ac937141ad9de1ecbd6d7a9827?versionId=GXZgzb0kY7ZbvEOM5aWo5uIM3q64x6vR to asset
+2020-10-20T23:41:49-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P44CS/sub-P44CS_ses-20160901_ecephys+image.nwb
+2020-10-20T23:41:49-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:49-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b2/6e/b26eabb315764c948bb02189d4de3497 -> /mnt/backup/dandi/dandisets/000004/sub-P44CS/sub-P44CS_ses-20160901_ecephys+image.nwb
+2020-10-20T23:41:49-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:50-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b2/6e/b26eabb315764c948bb02189d4de3497?versionId=Uh2W9mZl0Xq31AskUYtWAzksOMlc4dfS to asset
+2020-10-20T23:41:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P44HMH/sub-P44HMH_ses-20000101_ecephys+image.nwb
+2020-10-20T23:41:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/45/9c/459cefccf78946dea96d726bf38d431e -> /mnt/backup/dandi/dandisets/000004/sub-P44HMH/sub-P44HMH_ses-20000101_ecephys+image.nwb
+2020-10-20T23:41:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/45/9c/459cefccf78946dea96d726bf38d431e?versionId=7Z.FQDGGhp3O0BWaVM8Dk7WsgzGy_JSc to asset
+2020-10-20T23:41:51-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P47CS/sub-P47CS_ses-20170201_ecephys+image.nwb
+2020-10-20T23:41:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b9/f5/b9f567177ac2423bb983afa70f114d0a -> /mnt/backup/dandi/dandisets/000004/sub-P47CS/sub-P47CS_ses-20170201_ecephys+image.nwb
+2020-10-20T23:41:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b9/f5/b9f567177ac2423bb983afa70f114d0a?versionId=k4gMqE8kfeaSoN2COOjZl7i.VnxauxDi to asset
+2020-10-20T23:41:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P47HMH/sub-P47HMH_ses-20140601_obj-idwqk1_ecephys+image.nwb
+2020-10-20T23:41:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/17/9b/179bf5bd62a2456daf1fd9c3dc215471 -> /mnt/backup/dandi/dandisets/000004/sub-P47HMH/sub-P47HMH_ses-20140601_obj-idwqk1_ecephys+image.nwb
+2020-10-20T23:41:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/17/9b/179bf5bd62a2456daf1fd9c3dc215471?versionId=g28Cd18Fa1uHkDf.lX62CjStGSJNkCtb to asset
+2020-10-20T23:41:54-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P47HMH/sub-P47HMH_ses-20140601_obj-vnr1ai_ecephys+image.nwb
+2020-10-20T23:41:54-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:54-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/83/c7/83c70ccd8c6b4b1f91622a627557bc71 -> /mnt/backup/dandi/dandisets/000004/sub-P47HMH/sub-P47HMH_ses-20140601_obj-vnr1ai_ecephys+image.nwb
+2020-10-20T23:41:54-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/83/c7/83c70ccd8c6b4b1f91622a627557bc71?versionId=3CPZ6VxeyjnOaImoCa7uUtiWhR6zkU8J to asset
+2020-10-20T23:41:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P48CS/sub-P48CS_ses-20170301_ecephys+image.nwb
+2020-10-20T23:41:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/6a/87/6a878cf79b2548cb8e08c23d08ec03ad -> /mnt/backup/dandi/dandisets/000004/sub-P48CS/sub-P48CS_ses-20170301_ecephys+image.nwb
+2020-10-20T23:41:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/6a/87/6a878cf79b2548cb8e08c23d08ec03ad?versionId=Q3L_MfQpW3nGtKlVS2Ub7.ER25_yHW_b to asset
+2020-10-20T23:41:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P48HMH/sub-P48HMH_ses-20141201_ecephys+image.nwb
+2020-10-20T23:41:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c5/c7/c5c7b2d5d2104ef3bec2a224ce4fceb5 -> /mnt/backup/dandi/dandisets/000004/sub-P48HMH/sub-P48HMH_ses-20141201_ecephys+image.nwb
+2020-10-20T23:41:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:57-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c5/c7/c5c7b2d5d2104ef3bec2a224ce4fceb5?versionId=vIMqzvhGOJ0N2P8Vk9nsMhijqyAfQRVR to asset
+2020-10-20T23:41:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P49CS/sub-P49CS_ses-20170501_obj-1ft8efg_ecephys+image.nwb
+2020-10-20T23:41:58-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:58-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b2/c1/b2c1ae0df8c14200b9ccc464090a9c7b -> /mnt/backup/dandi/dandisets/000004/sub-P49CS/sub-P49CS_ses-20170501_obj-1ft8efg_ecephys+image.nwb
+2020-10-20T23:41:58-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:41:59-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b2/c1/b2c1ae0df8c14200b9ccc464090a9c7b?versionId=3ie79FunSK8pco7GJFVFmIocPfEreDnY to asset
+2020-10-20T23:41:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P49CS/sub-P49CS_ses-20170501_obj-1tdxaqk_ecephys+image.nwb
+2020-10-20T23:41:59-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:41:59-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/eb/a9/eba9fcd12e744a2d8de64d3352fea6f7 -> /mnt/backup/dandi/dandisets/000004/sub-P49CS/sub-P49CS_ses-20170501_obj-1tdxaqk_ecephys+image.nwb
+2020-10-20T23:41:59-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/eb/a9/eba9fcd12e744a2d8de64d3352fea6f7?versionId=CXhUkWBryKsF6YZ1P_NLdA9qY8NUEzsX to asset
+2020-10-20T23:42:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P51CS/sub-P51CS_ses-20170701_obj-r8wk_ecephys+image.nwb
+2020-10-20T23:42:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/53/25/5325b70889f1473eab50b2e65047738d -> /mnt/backup/dandi/dandisets/000004/sub-P51CS/sub-P51CS_ses-20170701_obj-r8wk_ecephys+image.nwb
+2020-10-20T23:42:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:01-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/53/25/5325b70889f1473eab50b2e65047738d?versionId=Hr3CTcUR5uBCFVYRRC8fqWd6T9EPpxxo to asset
+2020-10-20T23:42:02-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P51CS/sub-P51CS_ses-20170701_obj-whpzxi_ecephys+image.nwb
+2020-10-20T23:42:02-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:02-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/49/05/4905ee911ce24cec918d3b622098a610 -> /mnt/backup/dandi/dandisets/000004/sub-P51CS/sub-P51CS_ses-20170701_obj-whpzxi_ecephys+image.nwb
+2020-10-20T23:42:02-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:03-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/49/05/4905ee911ce24cec918d3b622098a610?versionId=r2KAPfvYoVAWtkf5RrVtfnTB4eIWrKdc to asset
+2020-10-20T23:42:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P51HMH/sub-P51HMH_ses-20160201_obj-14ikvd2_ecephys+image.nwb
+2020-10-20T23:42:03-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:03-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/54/0c/540ce8916d664ce4b30d73324d274a3e -> /mnt/backup/dandi/dandisets/000004/sub-P51HMH/sub-P51HMH_ses-20160201_obj-14ikvd2_ecephys+image.nwb
+2020-10-20T23:42:03-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/54/0c/540ce8916d664ce4b30d73324d274a3e?versionId=XwLWTrbMIgzUo0TF3eLTzHd2G5G3tDur to asset
+2020-10-20T23:42:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P51HMH/sub-P51HMH_ses-20160201_obj-1hgu6x_ecephys+image.nwb
+2020-10-20T23:42:05-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:05-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5b/6c/5b6c45bd51534b3a9972a1b1bda61e59 -> /mnt/backup/dandi/dandisets/000004/sub-P51HMH/sub-P51HMH_ses-20160201_obj-1hgu6x_ecephys+image.nwb
+2020-10-20T23:42:05-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:05-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5b/6c/5b6c45bd51534b3a9972a1b1bda61e59?versionId=nDmpxpfoCobTkzlkZmp52r8cYpq0u7cB to asset
+2020-10-20T23:42:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P53CS/sub-P53CS_ses-20171101_obj-108aqix_ecephys+image.nwb
+2020-10-20T23:42:06-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:06-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/81/12/811207753f8648d3a8fcf961b9f02345 -> /mnt/backup/dandi/dandisets/000004/sub-P53CS/sub-P53CS_ses-20171101_obj-108aqix_ecephys+image.nwb
+2020-10-20T23:42:06-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:07-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/81/12/811207753f8648d3a8fcf961b9f02345?versionId=hm3_4CZMN3JQliqsj248o3j1dB7bty57 to asset
+2020-10-20T23:42:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P53CS/sub-P53CS_ses-20171101_obj-lj04dr_ecephys+image.nwb
+2020-10-20T23:42:07-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:07-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/dd/a2/dda2d166bc844eea84704f7b3c6a19c1 -> /mnt/backup/dandi/dandisets/000004/sub-P53CS/sub-P53CS_ses-20171101_obj-lj04dr_ecephys+image.nwb
+2020-10-20T23:42:07-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:08-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/dd/a2/dda2d166bc844eea84704f7b3c6a19c1?versionId=SjgtVoEV_0_t_277P_SRYJSdSHC1caaV to asset
+2020-10-20T23:42:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P54CS/sub-P54CS_ses-20180101_obj-1ru98u8_ecephys+image.nwb
+2020-10-20T23:42:08-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:08-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f6/0c/f60c945cd4b34615884293ad82a1c814 -> /mnt/backup/dandi/dandisets/000004/sub-P54CS/sub-P54CS_ses-20180101_obj-1ru98u8_ecephys+image.nwb
+2020-10-20T23:42:08-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f6/0c/f60c945cd4b34615884293ad82a1c814?versionId=6jcBa9KDNfYMl84e7FEwxbosp0_fBA7q to asset
+2020-10-20T23:42:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P54CS/sub-P54CS_ses-20180101_obj-1ukzk61_ecephys+image.nwb
+2020-10-20T23:42:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d2/23/d22385717f45488c93a7c52c80cd5ed4 -> /mnt/backup/dandi/dandisets/000004/sub-P54CS/sub-P54CS_ses-20180101_obj-1ukzk61_ecephys+image.nwb
+2020-10-20T23:42:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:11-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d2/23/d22385717f45488c93a7c52c80cd5ed4?versionId=DOwltaBfHU.3b3RWp_xxnYqlCqvF29tR to asset
+2020-10-20T23:42:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P54CS/sub-P54CS_ses-20180101_obj-1vx1a5w_ecephys+image.nwb
+2020-10-20T23:42:11-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:11-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cf/28/cf287dce66eb4faf9a456f912ad2ab18 -> /mnt/backup/dandi/dandisets/000004/sub-P54CS/sub-P54CS_ses-20180101_obj-1vx1a5w_ecephys+image.nwb
+2020-10-20T23:42:11-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:13-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cf/28/cf287dce66eb4faf9a456f912ad2ab18?versionId=OdGnPXoJVIx_84b_fdwhl7j2HK09oanl to asset
+2020-10-20T23:42:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P55CS/sub-P55CS_ses-20180301_ecephys+image.nwb
+2020-10-20T23:42:13-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:13-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/36/3e/363e4c2c04344ab991adcbb0da6bcdc3 -> /mnt/backup/dandi/dandisets/000004/sub-P55CS/sub-P55CS_ses-20180301_ecephys+image.nwb
+2020-10-20T23:42:13-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:15-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/36/3e/363e4c2c04344ab991adcbb0da6bcdc3?versionId=PAwdL9D6PWmfFHLae1MSjpy_2qJMmZBx to asset
+2020-10-20T23:42:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P56CS/sub-P56CS_ses-20180401_ecephys+image.nwb
+2020-10-20T23:42:15-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:15-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/02/68/02688b6bff8e438089215e1f5a01cba6 -> /mnt/backup/dandi/dandisets/000004/sub-P56CS/sub-P56CS_ses-20180401_ecephys+image.nwb
+2020-10-20T23:42:15-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:16-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/02/68/02688b6bff8e438089215e1f5a01cba6?versionId=TNYNoLDo0cERUahTQqXoGDR2N4qI8Av3 to asset
+2020-10-20T23:42:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P57CS/sub-P57CS_ses-20180601_obj-12hkdgu_ecephys+image.nwb
+2020-10-20T23:42:17-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T23:42:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c9/3e/c93e0c8cf0a54e4bb38d8b151da5a9b9 -> /mnt/backup/dandi/dandisets/000004/sub-P57CS/sub-P57CS_ses-20180601_obj-12hkdgu_ecephys+image.nwb
+2020-10-20T23:42:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:19-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c9/3e/c93e0c8cf0a54e4bb38d8b151da5a9b9?versionId=u0eTUyfsRmafW4rogHz2SDNV_.lmScYR to asset
+2020-10-20T23:42:19-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P57CS/sub-P57CS_ses-20180601_obj-9ad1o5_ecephys+image.nwb
+2020-10-20T23:42:19-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:19-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7a/06/7a06d0ffc4bf430b8f23bb72c754ca14 -> /mnt/backup/dandi/dandisets/000004/sub-P57CS/sub-P57CS_ses-20180601_obj-9ad1o5_ecephys+image.nwb
+2020-10-20T23:42:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:21-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7a/06/7a06d0ffc4bf430b8f23bb72c754ca14?versionId=y1YLljUDVb08MU7X.anC.cS.MhwLZCjb to asset
+2020-10-20T23:42:21-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P58CS/sub-P58CS_ses-20180701_obj-ia8uyp_ecephys+image.nwb
+2020-10-20T23:42:21-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:21-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/87/ff/87ff6a634de34fbe99e2e50e4a65f746 -> /mnt/backup/dandi/dandisets/000004/sub-P58CS/sub-P58CS_ses-20180701_obj-ia8uyp_ecephys+image.nwb
+2020-10-20T23:42:21-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/87/ff/87ff6a634de34fbe99e2e50e4a65f746?versionId=iYnjg7BJ8IGZKP7GbpKbStg4UElR5j56 to asset
+2020-10-20T23:42:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P58CS/sub-P58CS_ses-20180701_obj-n6u3dz_ecephys+image.nwb
+2020-10-20T23:42:23-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:23-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/62/52/6252632682ab4ed8a70ff2d8b451ce2c -> /mnt/backup/dandi/dandisets/000004/sub-P58CS/sub-P58CS_ses-20180701_obj-n6u3dz_ecephys+image.nwb
+2020-10-20T23:42:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:24-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/62/52/6252632682ab4ed8a70ff2d8b451ce2c?versionId=jp4EKqhZBGonpMgX2ij49Qx.j2vtDdVR to asset
+2020-10-20T23:42:24-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P60CS/sub-P60CS_ses-20181001_ecephys+image.nwb
+2020-10-20T23:42:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/26/8a/268a7a9c62834785aa43e6d366cac7a3 -> /mnt/backup/dandi/dandisets/000004/sub-P60CS/sub-P60CS_ses-20181001_ecephys+image.nwb
+2020-10-20T23:42:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:26-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/26/8a/268a7a9c62834785aa43e6d366cac7a3?versionId=9CckD7zzS0LB3M26_oTjploNdLYrZmAS to asset
+2020-10-20T23:42:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P61CS/sub-P61CS_ses-20190201_ecephys+image.nwb
+2020-10-20T23:42:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/18/23/1823dd084654482b9a461c02c72391f8 -> /mnt/backup/dandi/dandisets/000004/sub-P61CS/sub-P61CS_ses-20190201_ecephys+image.nwb
+2020-10-20T23:42:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:28-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/18/23/1823dd084654482b9a461c02c72391f8?versionId=y_TJWzYQ8KkVS4Iqhh4q_krWXpVGZ2zR to asset
+2020-10-20T23:42:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P62CS/sub-P62CS_ses-20190401_ecephys+image.nwb
+2020-10-20T23:42:28-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:28-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/96/32/96322095f68c40b2aa54defc95921141 -> /mnt/backup/dandi/dandisets/000004/sub-P62CS/sub-P62CS_ses-20190401_ecephys+image.nwb
+2020-10-20T23:42:29-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/96/32/96322095f68c40b2aa54defc95921141?versionId=pqXbj3itBiu0Kh9DAdZEHBckF7hwmTe2 to asset
+2020-10-20T23:42:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P9HMH/sub-P9HMH_ses-20060301_obj-1otd1m8_ecephys+image.nwb
+2020-10-20T23:42:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/43/01/4301fd35106640a59775ecb8915e63ac -> /mnt/backup/dandi/dandisets/000004/sub-P9HMH/sub-P9HMH_ses-20060301_obj-1otd1m8_ecephys+image.nwb
+2020-10-20T23:42:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/43/01/4301fd35106640a59775ecb8915e63ac?versionId=IJTUeVE8E4NUAXi7zkySpZ0gycq8dclu to asset
+2020-10-20T23:42:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-P9HMH/sub-P9HMH_ses-20060301_obj-2arzt6_ecephys+image.nwb
+2020-10-20T23:42:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f2/79/f2796b7cb9554a09b0d62af41730332c -> /mnt/backup/dandi/dandisets/000004/sub-P9HMH/sub-P9HMH_ses-20060301_obj-2arzt6_ecephys+image.nwb
+2020-10-20T23:42:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:32-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f2/79/f2796b7cb9554a09b0d62af41730332c?versionId=Vn37HACOPt_qpQPdZiVsEFo6yjqpfLG4 to asset
+2020-10-20T23:42:32-0400 [INFO    ] backups2datalad.py Syncing asset /sub-TWH088/sub-TWH088_ses-20180301_obj-14chmi4_ecephys+image.nwb
+2020-10-20T23:42:32-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/39/af/39af5a7115344cc4bad5466e870dd904 -> /mnt/backup/dandi/dandisets/000004/sub-TWH088/sub-TWH088_ses-20180301_obj-14chmi4_ecephys+image.nwb
+2020-10-20T23:42:33-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/39/af/39af5a7115344cc4bad5466e870dd904?versionId=xpqeK84jNBTaQQFzvvcT3H5bDTRnmkNt to asset
+2020-10-20T23:42:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-TWH088/sub-TWH088_ses-20180301_obj-fkumf6_ecephys+image.nwb
+2020-10-20T23:42:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d8/68/d8685817a74b4512849a4451bb6ac63f -> /mnt/backup/dandi/dandisets/000004/sub-TWH088/sub-TWH088_ses-20180301_obj-fkumf6_ecephys+image.nwb
+2020-10-20T23:42:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d8/68/d8685817a74b4512849a4451bb6ac63f?versionId=PcXy1AoyqIU8r3wzbdiQtuonwckk4CVZ to asset
+2020-10-20T23:42:35-0400 [INFO    ] backups2datalad.py Syncing asset /sub-TWH089/sub-TWH089_ses-20180301_ecephys+image.nwb
+2020-10-20T23:42:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d7/8d/d78d3cb78eaa4d75a20423dadc2d1af4 -> /mnt/backup/dandi/dandisets/000004/sub-TWH089/sub-TWH089_ses-20180301_ecephys+image.nwb
+2020-10-20T23:42:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d7/8d/d78d3cb78eaa4d75a20423dadc2d1af4?versionId=Lic5FbVpHl6IhYEm1YsrGxIUmhvDVXzG to asset
+2020-10-20T23:42:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-TWH090/sub-TWH090_ses-20180401_ecephys+image.nwb
+2020-10-20T23:42:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/08/53/0853bcfc7f2e47b682543bf81b45f7b7 -> /mnt/backup/dandi/dandisets/000004/sub-TWH090/sub-TWH090_ses-20180401_ecephys+image.nwb
+2020-10-20T23:42:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:37-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/08/53/0853bcfc7f2e47b682543bf81b45f7b7?versionId=yYw0sVmLkWHvhRLt8wJq.2XbcrFb67fp to asset
+2020-10-20T23:42:38-0400 [INFO    ] backups2datalad.py Syncing asset /sub-TWH098/sub-TWH098_ses-20180901_ecephys+image.nwb
+2020-10-20T23:42:38-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:38-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/36/ee/36ee47163d704b9bab5f911bc6e7afe6 -> /mnt/backup/dandi/dandisets/000004/sub-TWH098/sub-TWH098_ses-20180901_ecephys+image.nwb
+2020-10-20T23:42:38-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:39-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/36/ee/36ee47163d704b9bab5f911bc6e7afe6?versionId=9hgrmanpaG4JKgU_c0PhQJ9rkU6gaoOq to asset
+2020-10-20T23:42:39-0400 [INFO    ] backups2datalad.py Syncing asset /sub-TWH100/sub-TWH100_ses-20181001_ecephys+image.nwb
+2020-10-20T23:42:39-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:39-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/94/d1/94d1c8b998514910b485689910828e34 -> /mnt/backup/dandi/dandisets/000004/sub-TWH100/sub-TWH100_ses-20181001_ecephys+image.nwb
+2020-10-20T23:42:39-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:40-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/94/d1/94d1c8b998514910b485689910828e34?versionId=zWni6PAKQWT0SfZHVrnjBbcOqpiBLb_0 to asset
+2020-10-20T23:42:40-0400 [INFO    ] backups2datalad.py Syncing asset /sub-TWH101/sub-TWH101_ses-20181001_ecephys+image.nwb
+2020-10-20T23:42:41-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:41-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/33/cb/33cb4a4c5b8d4cfa8016861dd5ab6f9f -> /mnt/backup/dandi/dandisets/000004/sub-TWH101/sub-TWH101_ses-20181001_ecephys+image.nwb
+2020-10-20T23:42:41-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:42-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/33/cb/33cb4a4c5b8d4cfa8016861dd5ab6f9f?versionId=z6qP.p8LEyEuM5AZSglD.ULY9toQKqsC to asset
+2020-10-20T23:42:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-TWH103/sub-TWH103_ses-20181101_ecephys+image.nwb
+2020-10-20T23:42:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c6/de/c6de15cded214867a2c26894c6a22584 -> /mnt/backup/dandi/dandisets/000004/sub-TWH103/sub-TWH103_ses-20181101_ecephys+image.nwb
+2020-10-20T23:42:42-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:43-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c6/de/c6de15cded214867a2c26894c6a22584?versionId=JRld0SUiJRA.KW2cFPMQlZ9m8iiG.6cp to asset
+2020-10-20T23:42:43-0400 [INFO    ] backups2datalad.py Syncing asset /sub-TWH107/sub-TWH107_ses-20181201_ecephys+image.nwb
+2020-10-20T23:42:43-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T23:42:43-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f4/85/f4851cae545c4d1091e93955292d9a2a -> /mnt/backup/dandi/dandisets/000004/sub-TWH107/sub-TWH107_ses-20181201_ecephys+image.nwb
+2020-10-20T23:42:43-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T23:42:44-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f4/85/f4851cae545c4d1091e93955292d9a2a?versionId=lGT6f4pDDcOWHMNRkXRlVdcib1XY8JsG to asset
+2020-10-20T23:42:44-0400 [INFO    ] backups2datalad.py Commiting changes
