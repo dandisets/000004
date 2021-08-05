@@ -338,7 +338,8 @@ keywords:
 - single-neurons
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000004/versions/draft/assets/
 name: A NWB-based dataset and processing pipeline of human single-neuron activity
   during a declarative memory task
 protocol: []
