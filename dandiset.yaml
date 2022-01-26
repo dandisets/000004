@@ -38,7 +38,8 @@ citation: Chandravadia, Nand; Liang, Dehua; Schjetnan, Andrea Gomez Palacio; Car
   April; Faraut, Mailys; Chung, Jeffrey M.; Reed, Chrystal M.; Dichter, Ben; Maoz,
   Uri; Kalia, Suneil K.; Valiante, Taufik A.; Mamelak, Adam N.; Rutishauser, Ueli
   (2022) A NWB-based dataset and processing pipeline of human single-neuron activity
-  during a declarative memory task (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000004/draft
+  during a declarative memory task (Version 0.220126.1852) [Data set]. DANDI archive.
+  https://doi.org/10.48324/dandi.000004/0.220126.1852
 contributor:
 - affiliation:
   - includeInCitation: false
@@ -311,6 +312,7 @@ contributor:
   - dcite:Sponsor
   schemaKey: Organization
 dateCreated: '2020-03-16T21:48:04.265000+00:00'
+datePublished: '2022-01-26T18:51:18.860919+00:00'
 description: 'A challenge for data sharing in systems neuroscience is the multitude
   of different data formats used. Neurodata Without Borders: Neurophysiology 2.0 (NWB:N)
   has emerged as a standardized data format for the storage of cellular-level data
@@ -325,8 +327,9 @@ description: 'A challenge for data sharing in systems neuroscience is the multit
   data and code release is a case study for how to utilize NWB:N for human single-neuron
   recordings and enables easy re-use of this hard-to-obtain data for both teaching
   and research on the mechanisms of human memory.'
+doi: 10.48324/dandi.000004/0.220126.1852
 ethicsApproval: []
-id: DANDI:000004/draft
+id: DANDI:000004/0.220126.1852
 identifier: DANDI:000004
 keywords:
 - cognitive neuroscience
@@ -341,10 +344,22 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000004/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000004/0.220126.1852/assets.yaml
 name: A NWB-based dataset and processing pipeline of human single-neuron activity
   during a declarative memory task
 protocol: []
+publishedBy:
+  endDate: '2022-01-26T18:51:18.860919+00:00'
+  id: urn:uuid:b03339f2-16b9-44bf-b0b7-3da1f323ac95
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-01-26T18:51:18.860919+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:566b874c-f7f1-41e3-b540-9b017d06db72
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: DOI:10.17605/OSF.IO/HV7JA
   name: A NWB-based Dataset and Processing Pipeline of Human Single-Neuron Activity
@@ -361,6 +376,6 @@ repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000004/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000004/0.220126.1852
+version: 0.220126.1852
 wasGeneratedBy: []
