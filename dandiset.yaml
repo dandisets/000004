@@ -37,7 +37,7 @@ assetsSummary:
 citation: Chandravadia, Nand; Liang, Dehua; Schjetnan, Andrea Gomez Palacio; Carlson,
   April; Faraut, Mailys; Chung, Jeffrey M.; Reed, Chrystal M.; Dichter, Ben; Maoz,
   Uri; Kalia, Suneil K.; Valiante, Taufik A.; Mamelak, Adam N.; Rutishauser, Ueli
-  (2023) A NWB-based dataset and processing pipeline of human single-neuron activity
+  (2024) A NWB-based dataset and processing pipeline of human single-neuron activity
   during a declarative memory task (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000004/draft
 contributor:
 - affiliation:
@@ -354,14 +354,13 @@ relatedResource:
   schemaKey: Resource
   url: https://osf.io/hv7ja/
 - identifier: DOI:10.1038/s41597-020-0415-9
+  name: A NWB-based dataset and processing pipeline of human single-neuron activity
+    during a declarative memory task
   relation: dcite:IsDescribedBy
+  repository: Scientific Data
+  resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.nature.com/articles/s41597-020-0415-9
-- name: example notebook
-  relation: dcite:IsReferencedBy
-  repository: dandi hub
-  schemaKey: Resource
-  url: https://hub.dandiarchive.org/hub/user-redirect/lab/tree/dandi-notebooks/000004/RutishauserLab/000004_demo_analysis.ipynb
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
