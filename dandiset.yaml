@@ -38,12 +38,11 @@ assetsSummary:
 citation: Chandravadia, Nand; Liang, Dehua; Schjetnan, Andrea Gomez Palacio; Carlson,
   April; Faraut, Mailys; Chung, Jeffrey M.; Reed, Chrystal M.; Dichter, Ben; Maoz,
   Uri; Kalia, Suneil K.; Valiante, Taufik A.; Mamelak, Adam N.; Rutishauser, Ueli
-  (2024) A NWB-based dataset and processing pipeline of human single-neuron activity
-  during a declarative memory task (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000004/draft
+  (2025) A NWB-based dataset and processing pipeline of human single-neuron activity
+  during a declarative memory task (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000004/draft
 contributor:
 - affiliation:
-  - includeInCitation: false
-    name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
+  - name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
       USA
     schemaKey: Affiliation
   email: nandc10@gmail.com
@@ -68,8 +67,7 @@ contributor:
   - dcite:Visualization
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Institute for Interdisciplinary Brain and Behavioral Sciences, Crean College
+  - name: Institute for Interdisciplinary Brain and Behavioral Sciences, Crean College
       of Health and Behavioral Sciences, Schmid College of Science and Technology,
       Chapman University, Orange, CA, USA
     schemaKey: Affiliation
@@ -84,8 +82,7 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
+  - name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
     schemaKey: Affiliation
   email: Andrea.Schjetan@uhnresearch.ca
   identifier: 0000-0002-4319-7689
@@ -98,8 +95,7 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
+  - name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
       USA
     schemaKey: Affiliation
   email: april.carlson@tufts.edu
@@ -113,8 +109,7 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
+  - name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
       USA
     schemaKey: Affiliation
   email: mailyscm.faraut@gmail.com
@@ -127,8 +122,7 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
+  - name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
     schemaKey: Affiliation
   email: Jeffrey.Chung@cshs.org
   includeInCitation: true
@@ -139,8 +133,7 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
+  - name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
     schemaKey: Affiliation
   email: Chrystal.Reed@csmc.edu
   includeInCitation: true
@@ -151,12 +144,10 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Biological Systems & Engineering Division, Lawrence Berkeley National Laboratory,
+  - name: Biological Systems & Engineering Division, Lawrence Berkeley National Laboratory,
       Berkeley, CA, USA
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: Department of Neurosurgery, Stanford University, Stanford, CA, USA
+  - name: Department of Neurosurgery, Stanford University, Stanford, CA, USA
     schemaKey: Affiliation
   email: ben.dichter@gmail.com
   includeInCitation: true
@@ -168,13 +159,11 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Institute for Interdisciplinary Brain and Behavioral Sciences, Crean College
+  - name: Institute for Interdisciplinary Brain and Behavioral Sciences, Crean College
       of Health and Behavioral Sciences, Schmid College of Science and Technology,
       Chapman University, Orange, CA, USA
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: Division of Biology and Biological Engineering, California Institute of
+  - name: Division of Biology and Biological Engineering, California Institute of
       Technology, Pasadena, CA, USA
     schemaKey: Affiliation
   email: maoz.uri@gmail.com
@@ -187,12 +176,10 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Division of Neurosurgery, Department of Surgery, University of Toronto,
+  - name: Division of Neurosurgery, Department of Surgery, University of Toronto,
       Toronto, Canada
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
+  - name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
     schemaKey: Affiliation
   email: suneil.kalia@uhn.ca
   includeInCitation: true
@@ -203,11 +190,9 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
+  - name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: Division of Neurosurgery, Department of Surgery, University of Toronto,
+  - name: Division of Neurosurgery, Department of Surgery, University of Toronto,
       Toronto, Canada
     schemaKey: Affiliation
   email: Taufik.Valiante@uhn.ca
@@ -219,8 +204,7 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
+  - name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
       USA
     schemaKey: Affiliation
   email: Adam.Mamelak@cshs.org
@@ -232,23 +216,18 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
+  - name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
       USA
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
+  - name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: Division of Biology and Biological Engineering, California Institute of
+  - name: Division of Biology and Biological Engineering, California Institute of
       Technology, Pasadena, CA, USA
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: Computational and Neural Systems Program, California Institute of Technology,
+  - name: Computational and Neural Systems Program, California Institute of Technology,
       Pasadena, CA, USA
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: Center for Neural Science and Medicine, Department of Biomedical Science,
+  - name: Center for Neural Science and Medicine, Department of Biomedical Science,
       Cedars-Sinai Medical Center, Los Angeles, CA, USA
     schemaKey: Affiliation
   email: Ueli.Rutishauser@cshs.org
