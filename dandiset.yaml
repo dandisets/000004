@@ -37,10 +37,10 @@ assetsSummary:
   - Units
   - ElectrodeGroup
 citation: Chandravadia, Nand; Liang, Dehua; Schjetnan, Andrea Gomez Palacio; Carlson,
-  April; Faraut, Mailys; Chung, Jeffrey M.; Reed, Chrystal M.; Dichter, Benjamin;
-  Maoz, Uri; Kalia, Suneil K.; Valiante, Taufik A.; Mamelak, Adam N.; Rutishauser,
-  Ueli (2026) A NWB-based dataset and processing pipeline of human single-neuron activity
-  during a declarative memory task (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000004/draft
+  April; Faraut, Mailys; Chung, Jeffrey M.; Reed, Chrystal M.; Maoz, Uri; Kalia, Suneil
+  K.; Valiante, Taufik A.; Mamelak, Adam N.; Rutishauser, Ueli (2026) A NWB-based
+  dataset and processing pipeline of human single-neuron activity during a declarative
+  memory task (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000004/draft
 contributor:
 - affiliation:
   - identifier: https://ror.org/02pammg90
@@ -159,12 +159,15 @@ contributor:
   - identifier: https://ror.org/00f54p054
     name: Department of Neurosurgery, Stanford University, Stanford, CA, USA
     schemaKey: Affiliation
+  - identifier: https://ror.org/01d74sk53
+    name: CatalystNeuro
+    schemaKey: Affiliation
   email: ben.dichter@gmail.com
   identifier: 0000-0001-5725-6910
-  includeInCitation: true
+  includeInCitation: false
   name: Dichter, Benjamin
   roleName:
-  - dcite:Author
+  - dcite:DataCurator
   - dcite:Software
   - dcite:ProjectMember
   - dcite:Validation
